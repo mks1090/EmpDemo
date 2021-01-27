@@ -1,5 +1,5 @@
-package com.reg.interview_excercise;
-
+package default package;
+// factorial program
 public class FactorialProgram {
 
 	public static void main(String args[]){  
